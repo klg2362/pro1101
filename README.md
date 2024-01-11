@@ -1,3 +1,3 @@
-#This is a student project
+# This is a student project
 
 ## Git and **GitHub**
